@@ -1,5 +1,4 @@
-# Code Quality Dashboard# Code Quality Dashboard
-
+# Code Quality Dashboard
 
 
 A comprehensive code quality analysis tool that provides detailed metrics and insights for software projects across multiple programming languages.A comprehensive web-based dashboard that analyzes GitHub repositories across diffrent programming languages, providing code quality metrics and actionable insights.
@@ -428,5 +427,6 @@ npm install -g eslint
 ---
 
 **Built with Flask, SQLAlchemy, Chart.js, and multi-language analysis tools**
+
 
 
