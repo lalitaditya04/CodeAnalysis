@@ -6,7 +6,7 @@ A comprehensive code quality analysis tool that provides detailed metrics and in
 
 
 
-## 🚀 Features
+## Features
 
 ## Features
 
@@ -36,7 +36,7 @@ A comprehensive code quality analysis tool that provides detailed metrics and in
 
 - **Total Lines**: Complete codebase size
 
-## ⚡ Quick Start- **Code Lines**: Actual executable code (excludes comments/blanks)
+## Quick Start- **Code Lines**: Actual executable code (excludes comments/blanks)
 
 - **Comment Lines**: Documentation and inline comments
 
@@ -76,7 +76,7 @@ A comprehensive code quality analysis tool that provides detailed metrics and in
 
 - **Duplication Detection**: Hash-based duplicate code identification
 
-## 🎯 Key Metrics- **File Hotspots**: Most complex and problematic files
+## Key Metrics- **File Hotspots**: Most complex and problematic files
 
 - **Function Analysis**: Method-level complexity breakdown
 
@@ -94,9 +94,9 @@ A comprehensive code quality analysis tool that provides detailed metrics and in
 
 - **Actionable Recommendations**: Specific improvement suggestions
 
-## 📊 Analysis Coverage
+## Analysis Coverage
 
-## 🌐 Multi-Language Support
+## Multi-Language Support
 
 - **Lines of Code**: Total, code, comments, and blank lines
 
@@ -110,7 +110,7 @@ A comprehensive code quality analysis tool that provides detailed metrics and in
 
 | **Java** | Full Support | Calculated | PMD | Regex patterns |
 
-## 🛠️ Technology Stack| **C/C++** | Full Support | Calculated | cppcheck | Regex patterns |
+## Technology Stack| **C/C++** | Full Support | Calculated | cppcheck | Regex patterns |
 
 | **Go** | Full Support | Calculated | gocyclo | Regex patterns |
 
@@ -124,7 +124,7 @@ A comprehensive code quality analysis tool that provides detailed metrics and in
 
 | **Ruby** | Estimated | Calculated | Regex patterns | Language detection |
 
-## 📁 Project Structure
+## Project Structure
 
 ## Requirements
 
@@ -152,7 +152,7 @@ codeanalysis/### System Requirements
 
 Flask-SQLAlchemy==3.1.1
 
-## 🔧 ConfigurationPyGithub==2.3.0
+## ConfigurationPyGithub==2.3.0
 
 Pylint==3.2.6
 
@@ -166,7 +166,7 @@ The application runs with default settings. For customization:Radon==6.0.1
 
 
 
-## 🤝 Contributing### Optional Language Tools (Enhanced Analysis)
+## Contributing### Optional Language Tools (Enhanced Analysis)
 
 ```bash
 
@@ -180,39 +180,13 @@ The application runs with default settings. For customization:Radon==6.0.1
 
 5. Open Pull Request# PMD: https://pmd.github.io/
 
+---## Installation
 
-
-## 📄 License# C/C++
-
-sudo apt-get install cppcheck  # Linux
-
-This project is licensed under the MIT License - see the LICENSE file for details.brew install cppcheck          # macOS
-
-
-
-## 🆘 Support# Go
-
-go install github.com/fzipp/gocyclo/cmd/gocyclo@latest
-
-For issues, questions, or contributions:
-
-- Create an issue on GitHub# Rust (comes with Rust installation)
-
-- Check existing documentation in `PROJECT_SUMMARY.md`rustup component add clippy
-
-- Review analysis methodology in `ANALYSIS_FORMULAS.md````
-
-
-
----## 🛠️ Installation
-
-
-
-**Made with ❤️ for better code quality**### Quick Start
+**Made with for better code quality**### Quick Start
 ```bash
 # 1. Clone repository
-git clone <your-repository-url>
-cd codeanalysis
+git clone https://github.com/lalitaditya04/CodeAnalysis
+cd CodeAnalysis
 
 # 2. Run setup script (Windows)
 run.bat
@@ -454,3 +428,4 @@ npm install -g eslint
 ---
 
 **Built with Flask, SQLAlchemy, Chart.js, and multi-language analysis tools**
+
