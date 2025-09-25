@@ -24,7 +24,7 @@ A comprehensive code quality analysis tool that provides detailed metrics and in
 
 - **Comprehensive Reports**: Detailed file-level and function-level analysis
 
-## 📋 Prerequisites- **Export Capabilities**: Download complete analysis results in JSON format
+## Prerequisites- **Export Capabilities**: Download complete analysis results in JSON format
 
 
 
@@ -428,4 +428,5 @@ npm install -g eslint
 ---
 
 **Built with Flask, SQLAlchemy, Chart.js, and multi-language analysis tools**
+
 
