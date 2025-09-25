@@ -111,11 +111,3 @@ Default settings work out of the box. For customization:
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-MIT License - see LICENSE file for details.
-
-## Documentation
-
-- `PROJECT_SUMMARY.md` - Comprehensive technical documentation
-- `ANALYSIS_FORMULAS.md` - Detailed metrics calculation methodology
